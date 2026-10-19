@@ -6,24 +6,24 @@ Zasady zadawania, ponawiania i zamykania pytań: [KONTRAKT.md, rozdz. 3](../KONT
 
 Pole „Zadano” zawiera datę i numer paczki przy każdym zadaniu pytania; liczba wpisów = liczba ponowień.
 
+## Paczki wiedzy do zatwierdzenia
+
+Ponawiane tak samo jak pytania (KONTRAKT rozdz. 3). Milczenie nie jest zatwierdzeniem.
+
+| Paczka | Wpisy | Zadano | Stan |
+|---|---|---|---|
+| P1 | POJ-001…010 | 2026-10-19; 2026-10-19 (ponowienie 1) | czeka na decyzję |
+
 ## Dziennik paczek
 
 | Paczka | Data | Pytania | Odpowiedziano |
 |---|---|---|---|
 | 1 | 2026-10-19 | PYT-004, PYT-005, PYT-006, PYT-007 | 2026-10-19: wszystkie 4 |
-| 2 | 2026-10-19 | PYT-008 | — |
+| 2 | 2026-10-19 | PYT-008 | 2026-10-19: PYT-008 |
 
 ## Otwarte
 
-### PYT-008 — Domyślny system okuć w kuchni, gdy reguły się różnią
-
-- **Pytanie:** wszystkie cztery systemy są domowe (PYT-005). Gdy reguła dla kuchni różni się między Blum, GTV i Hettich — który jest wariantem domyślnym w ściągach i checklistach?
-- **Kontekst:** odpowiedź do PYT-005 zaznaczyła Bluma z dopiskiem „kuchnie”, a GTV i Hettich bez zakresu. To doprecyzowanie odpowiedzi częściowej (kontrakt 3, ponawianie pkt 3).
-- **Opcje:** (a) Blum domyślny dla kuchni, GTV i Hettich jako równorzędne warianty opisane obok; (b) brak domyślnego — każda ściąga pokazuje wszystkie trzy; (c) inny.
-- **Rekomendacja:** (a).
-- **Rodzaj:** `z-domyslna` · **Priorytet:** niski · **Blokuje:** nic do fali 3.
-- **Zadano:** 2026-10-19 (paczka 2)
-- **Stan:** otwarte · **Odpowiedź:** —
+(brak — paczka 2 rozstrzygnięta)
 
 ## W przygotowaniu (zostaną zadane z notatką decyzyjną)
 
@@ -42,6 +42,17 @@ Pole „Zadano” zawiera datę i numer paczki przy każdym zadaniu pytania; lic
 (brak otwartych)
 
 ## Zamknięte
+
+### PYT-008 — Domyślny system okuć w kuchni, gdy reguły się różnią
+
+- **Pytanie:** wszystkie cztery systemy są domowe (PYT-005). Gdy reguła dla kuchni różni się między Blum, GTV i Hettich — który jest wariantem domyślnym w ściągach i checklistach?
+- **Kontekst:** odpowiedź do PYT-005 zaznaczyła Bluma z dopiskiem „kuchnie”, a GTV i Hettich bez zakresu. To doprecyzowanie odpowiedzi częściowej (kontrakt 3, ponawianie pkt 3).
+- **Opcje:** (a) Blum domyślny dla kuchni, GTV i Hettich jako równorzędne warianty opisane obok; (b) brak domyślnego — każda ściąga pokazuje wszystkie trzy; (c) inny.
+- **Rekomendacja:** (a).
+- **Rodzaj:** `z-domyslna` · **Priorytet:** niski
+- **Zadano:** 2026-10-19 (paczka 2)
+- **Stan:** zamkniete · **Odpowiedź (2026-10-19):** „08 zgoda” — opcja (a).
+- **Skutek:** w ściągach i checklistach dla kuchni wariantem domyślnym jest Blum; GTV i Hettich opisane obok jako równorzędne warianty.
 
 ### PYT-001 — Która wersja słownika z 2 października jest kanoniczna?
 

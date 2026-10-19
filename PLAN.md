@@ -277,3 +277,4 @@ W `INDEKS.md` generowanym automatycznie:
 | 6 | Model warsztatu | Zlecane CNC (rozkrój, oklejanie PUR, nawierty) + montaż u siebie. | Michał, 2026-10-19 (PYT-004) |
 | 7 | Domowe systemy okuć | Blum (kuchnie), Sevroll (drzwi przesuwne), GTV AXIS PRO, Hettich. | Michał, 2026-10-19 (PYT-005) |
 | 8 | Kopia na GitHubie | Push po każdej fali. | Michał, 2026-10-19 (PYT-007) |
+| 9 | Domyślny system okuć w kuchni | Blum; GTV i Hettich jako równorzędne warianty obok. | Michał, 2026-10-19 (PYT-008) |

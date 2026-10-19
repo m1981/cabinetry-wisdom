@@ -2,6 +2,11 @@
 
 Każda wersja to tag git. Zapisujemy, co zatwierdzono, wycofano i rozstrzygnięto.
 
+## v0.1.4 — paczka pytań 2 (2026-10-19)
+
+- PYT-008 zamknięte: Blum domyślny dla kuchni, GTV i Hettich jako równorzędne warianty (PLAN rozdz. 14, poz. 9).
+- Rejestr pytań: nowa sekcja „Paczki wiedzy do zatwierdzenia” — paczka P1 ponowiona (1).
+
 ## v0.1.3 — fala 1 rozpoczęta (2026-10-19)
 
 - PYT-001 zamknięte przez sztab: SRC-0002 kanoniczny, SRC-0006 to ta sama treść bez odsyłaczy.
