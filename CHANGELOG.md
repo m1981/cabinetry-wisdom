@@ -2,6 +2,18 @@
 
 Każda wersja to tag git. Zapisujemy, co zatwierdzono, wycofano i rozstrzygnięto.
 
+## v0.2.2 — paczka P3 do zatwierdzenia (2026-10-19)
+
+- Nowe źródło SRC-0109: katalog Blum 2024–2025 (pewność A); s. 83 potwierdza skróty F, TB, MD, FA, FD.
+- Paczka P3 do zatwierdzenia: POJ-021…030 (fronty i ruch). POJ-024 „nałożenie frontu” — pierwszy wpis z pewnością A.
+- KONF-003 (znaczenie FA) z rekomendacją: FA = nałożenie frontu, zgodnie z katalogiem.
+- Paczka pytań 3: PYT-009 (nadlewka / wysunięcie frontu).
+
+## v0.2.1 — paczka P2 zatwierdzona (2026-10-19)
+
+- **Zatwierdzone** przez Michała: POJ-011…020 (przegroda, półka stała, półka przestawna, przedział, cokół maskujący, cokół nośny, nóżka regulowana, blenda, panel boczny dekoracyjny, maskownica). Pewność D.
+- **Rozstrzygnięte** KONF-001 (blenda = każde stałe wypełnienie, ustawienie dopiskiem; „bok jako blenda” → bok widoczny) i KONF-002 (przegroda tylko pionowa).
+
 ## v0.2 — pierwsze zatwierdzone pojęcia (2026-10-19)
 
 - **Zatwierdzone** przez Michała: POJ-001…010 (paczka P1) — korpus, bok korpusu, wieniec górny, wieniec dolny, plecy, trawers, front, formatka, wymiar zewnętrzny korpusu, wymiar w świetle. Pewność D.

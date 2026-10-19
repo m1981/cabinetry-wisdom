@@ -13,7 +13,8 @@ Ponawiane tak samo jak pytania (KONTRAKT rozdz. 3). Milczenie nie jest zatwierdz
 | Paczka | Wpisy | Zadano | Stan |
 |---|---|---|---|
 | P1 | POJ-001…010 | 2026-10-19; 2026-10-19 (ponowienie 1) | **zatwierdzona w całości** 2026-10-19 („p1 zatwierdzam”) |
-| P2 | POJ-011…020, KONF-001, KONF-002 | 2026-10-19 | czeka na decyzję |
+| P2 | POJ-011…020, KONF-001, KONF-002 | 2026-10-19 | **zatwierdzona w całości**, K1 i K2 wg rekomendacji, 2026-10-19 |
+| P3 | POJ-021…030, KONF-003 | 2026-10-19 | czeka na decyzję |
 
 ## Dziennik paczek
 
@@ -21,10 +22,19 @@ Ponawiane tak samo jak pytania (KONTRAKT rozdz. 3). Milczenie nie jest zatwierdz
 |---|---|---|---|
 | 1 | 2026-10-19 | PYT-004, PYT-005, PYT-006, PYT-007 | 2026-10-19: wszystkie 4 |
 | 2 | 2026-10-19 | PYT-008 | 2026-10-19: PYT-008 |
+| 3 | 2026-10-19 | PYT-009 | — |
 
 ## Otwarte
 
-(brak — paczka 2 rozstrzygnięta)
+### PYT-009 — „Nadlewka” czy „wysunięcie frontu”?
+
+- **Pytanie:** jak nazywasz odcinek, o który front wystaje poza korpus (np. poniżej dna szafki górnej)?
+- **Kontekst:** słowo „nadlewka” występuje tylko w jednym starym słowniku (SRC-0005). W POJ-025 przyjąłem roboczo „wysunięcie frontu”, a „nadlewkę” jako synonim.
+- **Opcje:** (a) „wysunięcie frontu”, nadlewka jako synonim; (b) „nadlewka” jako nazwa główna; (c) inne słowo z Twojego warsztatu.
+- **Rekomendacja:** (a) — opisowe i zrozumiałe bez słownika. Jeśli na warsztacie mówisz inaczej, Twoje słowo powinno wygrać.
+- **Rodzaj:** `z-domyslna` · **Priorytet:** niski · **Blokuje:** nic — POJ-025 zapisane wg rekomendacji.
+- **Zadano:** 2026-10-19 (paczka 3)
+- **Stan:** otwarte · **Odpowiedź:** —
 
 ## W przygotowaniu (zostaną zadane z notatką decyzyjną)
 

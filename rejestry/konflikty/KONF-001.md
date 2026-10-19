@@ -2,12 +2,13 @@
 id: KONF-001
 tytul: Znaczenie słowa „blenda”
 rodzaj: konflikt
-status: otwarty
+status: rozstrzygniety
 natura: pojecia
 wpisy: [POJ-018]
 decyzja: null
 historia:
   - 2026-10-19 otwarty — rozbieżność R1 z inwentarza fali 1 (Claude)
+  - 2026-10-19 rozstrzygniety — Michał
 ---
 
 **Sprzeczność:**
@@ -23,4 +24,4 @@ historia:
 
 **Rekomendacja:** opcja 1 — tak definiuje POJ-018. Jedno pojęcie, ustawienie jako cecha; trzecie znaczenie przeniesione na „bok widoczny”.
 
-**Rozstrzygnięcie:** —
+**Rozstrzygnięcie:** Opcja 1, zgodnie z rekomendacją. Blenda = każde stałe wypełnienie przerwy przy ścianie, suficie lub innym elemencie; ustawienie (licowe / prostopadłe) opisujemy dopiskiem. „Bok jako blenda” z SRC-0002 nazywamy „bok widoczny”. Decyzja: Michał, 2026-10-19 („k1 zgoda”). Skutek: POJ-018 zatwierdzone w brzmieniu z rekomendacji.
