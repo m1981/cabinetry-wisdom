@@ -19,9 +19,9 @@ Zestawienie pojęć ze słowników legacy, podzielone na paczki do zatwierdzenia
 
 | # | Pojęcie | Rozbieżność | Natura | Paczka |
 |---|---|---|---|---|
-| R1 | **blenda** | SRC-0002: wypełnienie przerwy, np. przy ścianie; osobno „bok jako blenda” z filmu. SRC-0007: stała płyta 18 mm mocowana do ściany/sufitu, gł. 150 mm, odróżniona od „opaski”. | `pojecia` | P2 |
+| R1 | **blenda** | SRC-0002: wypełnienie przerwy, np. przy ścianie; osobno „bok jako blenda” z filmu. SRC-0007: stała płyta 18 mm mocowana do ściany/sufitu, gł. 150 mm, odróżniona od „opaski”. | `pojecia` → **KONF-001** | P2 |
 | R2 | **FA** | SRC-0002: FA = nałożenie frontu (Blum, zawiasy). SRC-0005: FA_min = minimalna odległość osi otworu prowadnicy od dołu frontu. Ten sam skrót, dwa znaczenia. | `pojecia` / `odczyt` — do sprawdzenia w katalogu Blum | P3 / P7 |
-| R3 | **przegroda** | SRC-0002: wewnętrzny element dzielący, z orientacją pionową lub poziomą. SRC-0007: tylko pionowa; pozioma to półka. | `pojecia` | P2 |
+| R3 | **przegroda** | SRC-0002: wewnętrzny element dzielący, z orientacją pionową lub poziomą. SRC-0007: tylko pionowa; pozioma to półka. | `pojecia` → **KONF-002** | P2 |
 | R4 | **dno / wieniec** | SRC-0002: „wieniec dolny, dno korpusu” = synonimy. SRC-0005: korpus „z boków, dna, wieńca” — sugeruje dno ≠ wieniec. | `pojecia` — rozstrzygnięte w POJ-004 (synonimy) | P1 |
 | R5 | **okleina** | SRC-0002: okleina bez doprecyzowania niejednoznaczna. SRC-0003: „okleina syntetyczna (folia CPL/HPL)” — HPL nazwany folią. | `pojecia` | P5 |
 | R6 | **nadlewka** vs **nałożenie** | SRC-0005: nadlewka = o ile front wystaje poza krawędź korpusu (np. pod dnem). SRC-0002: nałożenie = o ile front przykrywa czołową krawędź boku. Różne kierunki, łatwe do pomylenia. | `pojecia` | P3 |
@@ -31,10 +31,10 @@ Zestawienie pojęć ze słowników legacy, podzielone na paczki do zatwierdzenia
 
 | Paczka | Temat | Pojęcia | Główne źródła |
 |---|---|---|---|
-| **P1** | Korpus — elementy podstawowe | korpus, bok korpusu, wieniec górny, wieniec dolny, plecy, trawers, front, formatka, wymiar zewnętrzny korpusu, wymiar w świetle | SRC-0002, 0003, 0005, 0007 |
-| P2 | Korpus — wnętrze i wykończenie | przegroda, półka stała, półka przestawna, przedział, cokół maskujący, cokół nośny, nóżka regulowana, blenda, panel boczny dekoracyjny, maskownica | SRC-0002, 0005, 0007 |
+| **P1** ✅ zatwierdzona | Korpus — elementy podstawowe | korpus, bok korpusu, wieniec górny, wieniec dolny, plecy, trawers, front, formatka, wymiar zewnętrzny korpusu, wymiar w świetle | SRC-0002, 0003, 0005, 0007 |
+| **P2** do zatwierdzenia | Korpus — wnętrze i wykończenie | przegroda, półka stała, półka przestawna, przedział, cokół maskujący, cokół nośny, nóżka regulowana, blenda, panel boczny dekoracyjny, maskownica | SRC-0002, 0005, 0007 |
 | P3 | Fronty i ruch | front nakładany, front wpuszczany, front półnakładany, nałożenie frontu, nadlewka, fuga, luz ruchowy, drzwi lewe/prawe, klapa, obwiednia ruchu | SRC-0002, 0005 |
-| P4 | Rodzaje szafek i układ | zabudowa, ciąg szafek, szafka dolna, szafka górna, słupek, szafka narożna, szafka zlewozmywakowa, szafka pod urządzenie, wyspa, półwysep, moduł szafki | SRC-0002 |
+| P4 | Rodzaje szafek i układ | bok widoczny / niewidoczny (zapowiedziane w POJ-002), zabudowa, ciąg szafek, szafka dolna, szafka górna, słupek, szafka narożna, szafka zlewozmywakowa, szafka pod urządzenie, wyspa, półwysep, moduł szafki | SRC-0002 |
 | P5 | Materiały płytowe | płyta wiórowa, płyta melaminowana, płyta wilgocioodporna, MDF, HDF, sklejka, drewno lite, fornir, HPL, CPL, laminat kompaktowy | SRC-0002, 0003 |
 | P6 | Krawędzie i obróbka | obrzeże, oklejanie krawędzi, klej PUR/EVA, dekor i kierunek wzoru, usłojenie, rzaz, naddatek obróbkowy, rowek, wręg, faza, czoło | SRC-0002, 0003, 0005 |
 | P7 | Połączenia i okucia | okucie, kołek meblowy, konfirmat, złącze mimośrodowe, zawias puszkowy, prowadnik zawiasu, odległość puszki, prowadnica szuflady, długość nominalna (NL), skrzynka szuflady, pełny wysuw, cichy domyk, push to open, podnośnik frontu, cargo, zawieszka i szyna, System 32, siatka otworów | SRC-0002, 0005 (dwie paczki) |

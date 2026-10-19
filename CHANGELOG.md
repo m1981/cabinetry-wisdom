@@ -2,6 +2,11 @@
 
 Każda wersja to tag git. Zapisujemy, co zatwierdzono, wycofano i rozstrzygnięto.
 
+## v0.2 — pierwsze zatwierdzone pojęcia (2026-10-19)
+
+- **Zatwierdzone** przez Michała: POJ-001…010 (paczka P1) — korpus, bok korpusu, wieniec górny, wieniec dolny, plecy, trawers, front, formatka, wymiar zewnętrzny korpusu, wymiar w świetle. Pewność D.
+- Paczka P2 do zatwierdzenia: POJ-011…020 (przegroda, półki, przedział, cokoły, nóżka, blenda, panel boczny, maskownica). Otwarte konflikty nazewnicze KONF-001 (blenda) i KONF-002 (przegroda).
+
 ## v0.1.4 — paczka pytań 2 (2026-10-19)
 
 - PYT-008 zamknięte: Blum domyślny dla kuchni, GTV i Hettich jako równorzędne warianty (PLAN rozdz. 14, poz. 9).

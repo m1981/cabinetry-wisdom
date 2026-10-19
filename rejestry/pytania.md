@@ -12,7 +12,8 @@ Ponawiane tak samo jak pytania (KONTRAKT rozdz. 3). Milczenie nie jest zatwierdz
 
 | Paczka | Wpisy | Zadano | Stan |
 |---|---|---|---|
-| P1 | POJ-001…010 | 2026-10-19; 2026-10-19 (ponowienie 1) | czeka na decyzję |
+| P1 | POJ-001…010 | 2026-10-19; 2026-10-19 (ponowienie 1) | **zatwierdzona w całości** 2026-10-19 („p1 zatwierdzam”) |
+| P2 | POJ-011…020, KONF-001, KONF-002 | 2026-10-19 | czeka na decyzję |
 
 ## Dziennik paczek
 
