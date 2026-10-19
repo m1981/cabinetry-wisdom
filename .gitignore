@@ -1,0 +1,7 @@
+# surowe materiały robocze (transkrypcje, PDF-y katalogów) — poza gitem
+inbox/_surowe/
+
+.DS_Store
+__pycache__/
+.venv/
+.idea/

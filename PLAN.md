@@ -134,7 +134,7 @@ pewnosc: C
 status: kandydat
 zrodla: [SRC-014@12:40, SRC-003@s.79]
 powiazania:
-  zalezy_od: [POJ-plecy, KOR-010]
+  zalezy_od: [POJ-014, KOR-010]
   doprecyzowuje: []
   konflikt: []
   zastapiona_przez: null
@@ -201,7 +201,7 @@ Kroki 2–5 może wykonywać agent AI. Krok 6–7 zawsze człowiek. Pewność ro
 
 - Każdy plik z wcześniejszych projektów dostaje `SRC-id` typu `legacy` z oryginalną ścieżką.
 - Duplikaty (ta sama treść w 2–4 miejscach) rejestrujemy raz; wskazujemy najnowszą wersję jako kanoniczną.
-- Kopii plików legacy nie poprawiamy — wyłuskujemy z nich kandydatów, a stare projekty zostają nietknięte.
+- Kanoniczną wersję **kopiujemy do `zrodla/legacy/`** jako zamrożoną migawkę — gdy stary projekt zniknie, źródło zostaje. Migawek nie poprawiamy; wyłuskujemy z nich kandydatów, a stare projekty zostają nietknięte.
 - Pewność legacy: domyślnie `D` (synteza AI lub notatki bez źródła), chyba że plik podaje źródło producenta.
 
 ## 10. Struktura repo
@@ -226,7 +226,8 @@ cabinetry-wisdom/
 │   └── decyzje/            DEC-*.md
 ├── zrodla/
 │   ├── notatki/            notatki z filmów, rozmów, katalogów (SRC-*.md)
-│   └── legacy-mapa.md      mapa plików z PycharmProjects → SRC-id
+│   ├── legacy/             zamrożone migawki plików z wcześniejszych projektów
+│   └── legacy-mapa.md      mapa plików z PycharmProjects (z duplikatami) → SRC-id
 ├── widoki/                 ściągi i checklisty GENEROWANE z reguł (nie edytować ręcznie)
 ├── inbox/                  surowe materiały do przetworzenia (_surowe/ poza gitem)
 └── narzedzia/              walidator nagłówków + generator indeksu (mały skrypt Python)
