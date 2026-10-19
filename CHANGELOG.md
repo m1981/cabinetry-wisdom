@@ -2,6 +2,14 @@
 
 Każda wersja to tag git. Zapisujemy, co zatwierdzono, wycofano i rozstrzygnięto.
 
+## v0.1.3 — fala 1 rozpoczęta (2026-10-19)
+
+- PYT-001 zamknięte przez sztab: SRC-0002 kanoniczny, SRC-0006 to ta sama treść bez odsyłaczy.
+- Inwentarz fali 1 (`rejestry/fala-1-inwentarz.md`): 6 źródeł oceniono, 11 paczek pojęć zaplanowano, 7 rozbieżności nazewniczych wykryto (R1–R7).
+- Paczka P1 do zatwierdzenia: POJ-001…010 (korpus, bok, wieńce, plecy, trawers, front, formatka, wymiar zewnętrzny, wymiar w świetle) — status `opracowana`, pewność D.
+- KONTRAKT v1.2: meldunek kończy się linią „OD CIEBIE” i ma być krótki.
+- Paczka pytań 2: PYT-008.
+
 ## v0.1.2 — odpowiedzi z paczki 1 (2026-10-19)
 
 - Zamknięte PYT-004…007: warsztat = zlecane CNC + montaż; domowe okucia = Blum, Sevroll, GTV AXIS PRO, Hettich; paczki do zatwierdzenia po 10; push po każdej fali.

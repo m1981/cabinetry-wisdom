@@ -1,6 +1,6 @@
 # Kontrakt pracy: protokół oficera sztabowego
 
-Status: obowiązuje · Wersja: 1.1 · Data: 2026-10-19 · Strony: Michał (dowódca), agent AI (oficer sztabowy)
+Status: obowiązuje · Wersja: 1.2 · Data: 2026-10-19 · Strony: Michał (dowódca), agent AI (oficer sztabowy)
 
 Ten kontrakt ustala, jak pracujemy nad bazą wiedzy. Obowiązuje każdego agenta AI w tym repo, w każdej sesji. Ma pierwszeństwo przed zwyczajami agenta; ustępuje tylko wprost wydanemu poleceniu Michała.
 
@@ -75,7 +75,11 @@ STAN BAZY    — liczby z INDEKS.md: kandydaci / opracowane / zatwierdzone / kon
 PROBLEMY     — co poszło nie tak, ryzyka, odstępstwa od planu
 PACZKA PYTAŃ — ≤ 4 pytania z rekomendacjami (zaległe pierwsze)
 DALEJ        — następny krok, jeśli dowódca nie zmieni zamiaru
+OD CIEBIE    — jedna linia: dokładnie czego potrzebuję i jak można odpowiedzieć
+               (np. „odpisz: zatwierdzam / zatwierdzam poza 3 i 7”); gdy nic — „nic”
 ```
+
+Meldunek ma być krótki: tyle, ile dowódca potrzebuje do decyzji. Szczegóły są w plikach, meldunek je wskazuje.
 
 **Paczka do zatwierdzenia** (przegląd wiedzy): tabela ≤ 10 wpisów (PYT-006) — ID, treść w jednym zdaniu, pewność, źródło, rekomendacja oficera (zatwierdź / popraw / odrzuć). Dowódca odpowiada zbiorczo („zatwierdzam wszystkie poza X i Y”) lub punktowo.
 

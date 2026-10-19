@@ -11,7 +11,7 @@ Pole „Zadano” zawiera datę i numer paczki przy każdym zadaniu pytania; lic
 | Paczka | Data | Pytania | Odpowiedziano |
 |---|---|---|---|
 | 1 | 2026-10-19 | PYT-004, PYT-005, PYT-006, PYT-007 | 2026-10-19: wszystkie 4 |
-| 2 | — | PYT-008 (czeka na następny meldunek) | — |
+| 2 | 2026-10-19 | PYT-008 | — |
 
 ## Otwarte
 
@@ -22,7 +22,7 @@ Pole „Zadano” zawiera datę i numer paczki przy każdym zadaniu pytania; lic
 - **Opcje:** (a) Blum domyślny dla kuchni, GTV i Hettich jako równorzędne warianty opisane obok; (b) brak domyślnego — każda ściąga pokazuje wszystkie trzy; (c) inny.
 - **Rekomendacja:** (a).
 - **Rodzaj:** `z-domyslna` · **Priorytet:** niski · **Blokuje:** nic do fali 3.
-- **Zadano:** — (wejdzie do paczki 2)
+- **Zadano:** 2026-10-19 (paczka 2)
 - **Stan:** otwarte · **Odpowiedź:** —
 
 ## W przygotowaniu (zostaną zadane z notatką decyzyjną)
@@ -39,13 +39,15 @@ Pole „Zadano” zawiera datę i numer paczki przy każdym zadaniu pytania; lic
 
 ## Do zbadania przez sztab
 
+(brak otwartych)
+
+## Zamknięte
+
 ### PYT-001 — Która wersja słownika z 2 października jest kanoniczna?
 
 - **Pytanie:** `SRC-0002` (kuchnie3, 26 007 B) czy zmieniona kopia `SRC-0006` (rkd, 25 528 B)?
-- **Rodzaj:** `do-zbadania` · **Kiedy:** fala 1 — porównam różnice i przedstawię wniosek w meldunku.
-- **Stan:** otwarte
-
-## Zamknięte
+- **Rodzaj:** `do-zbadania`
+- **Stan:** zamkniete · **Wynik badania (2026-10-19, sztab):** treść definicji identyczna; SRC-0006 różni się tylko 16 wierszami, w których usunięto odsyłacze do rejestru STOL (`[STOL-011](cabinetry-rules.md#STOL-011)` → `STOL-011`). **Kanoniczne: SRC-0002.** SRC-0006 nie jest osobnym źródłem treści.
 
 ### PYT-004 — Domyślny model warsztatu
 
