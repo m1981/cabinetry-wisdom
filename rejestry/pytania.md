@@ -14,7 +14,7 @@ Ponawiane tak samo jak pytania (KONTRAKT rozdz. 3). Milczenie nie jest zatwierdz
 |---|---|---|---|
 | P1 | POJ-001…010 | 2026-10-19; 2026-10-19 (ponowienie 1) | **zatwierdzona w całości** 2026-10-19 („p1 zatwierdzam”) |
 | P2 | POJ-011…020, KONF-001, KONF-002 | 2026-10-19 | **zatwierdzona w całości**, K1 i K2 wg rekomendacji, 2026-10-19 |
-| P3 | POJ-021…030, KONF-003 | 2026-10-19 | czeka na decyzję |
+| P3 | POJ-021…030, KONF-003 | 2026-10-19; 2026-10-19 (ponowienie 1) | czeka na decyzję |
 
 ## Dziennik paczek
 
@@ -23,6 +23,7 @@ Ponawiane tak samo jak pytania (KONTRAKT rozdz. 3). Milczenie nie jest zatwierdz
 | 1 | 2026-10-19 | PYT-004, PYT-005, PYT-006, PYT-007 | 2026-10-19: wszystkie 4 |
 | 2 | 2026-10-19 | PYT-008 | 2026-10-19: PYT-008 |
 | 3 | 2026-10-19 | PYT-009 | — |
+| 4 | 2026-10-19 | PYT-009 (ponowienie 1), PYT-010, PYT-011 | — |
 
 ## Otwarte
 
@@ -33,7 +34,27 @@ Ponawiane tak samo jak pytania (KONTRAKT rozdz. 3). Milczenie nie jest zatwierdz
 - **Opcje:** (a) „wysunięcie frontu”, nadlewka jako synonim; (b) „nadlewka” jako nazwa główna; (c) inne słowo z Twojego warsztatu.
 - **Rekomendacja:** (a) — opisowe i zrozumiałe bez słownika. Jeśli na warsztacie mówisz inaczej, Twoje słowo powinno wygrać.
 - **Rodzaj:** `z-domyslna` · **Priorytet:** niski · **Blokuje:** nic — POJ-025 zapisane wg rekomendacji.
-- **Zadano:** 2026-10-19 (paczka 3)
+- **Zadano:** 2026-10-19 (paczka 3); 2026-10-19 (paczka 4)
+- **Stan:** otwarte · **Odpowiedź:** —
+
+### PYT-010 — Rysunki z rozpis.pl: kopie w repo czy tylko odnośniki?
+
+- **Pytanie:** jak przechowujemy rysunki z rozpis.pl (KZ-003), na których Ci zależy?
+- **Kontekst:** strona ma zastrzeżone prawa autorskie. Repo jest prywatne, ale to nadal kopia cudzych rysunków. Zależy nam też, żeby wiedza nie zginęła, gdyby strona zniknęła.
+- **Opcje:** (a) w repo: odnośnik + nasz własny uproszczony szkic (SVG) najważniejszych rysunków; oryginalne zrzuty lokalnie w `inbox/_surowe/` (poza gitem); (b) oryginalne zrzuty w repo, w folderze `zrodla/obrazy/` z podpisem autora — tylko do użytku własnego; (c) tylko odnośniki.
+- **Rekomendacja:** (a) — repo zawiera wyłącznie naszą pracę, a oryginały masz u siebie. Jeśli wolisz (b), to Twoje prywatne repo i Twoja decyzja — oznaczę wtedy każdy rysunek autorem i adresem.
+- **Rodzaj:** `z-domyslna` · **Priorytet:** średni · **Blokuje:** nic do fali 2.
+- **Zadano:** 2026-10-19 (paczka 4)
+- **Stan:** otwarte · **Odpowiedź:** —
+
+### PYT-011 — Skąd wziąć listę Twoich filmów z YouTube?
+
+- **Pytanie:** gdzie są filmy stolarzy, z których mam wyłowić praktyki (KZ-001)?
+- **Kontekst:** nie widzę Twojego konta YouTube. Każdy film przetwarzam tak jak film Pracowni Gepetto: notatka z parafrazami i znacznikami czasu, praktyki jako wpisy `praktyka`.
+- **Opcje:** (a) publiczna lub niepubliczna playlista na YouTube — podajesz link, ja czytam listę; (b) wklejasz linki do pliku `inbox/filmy.md` (albo do czatu); (c) podajesz kanały stolarzy, a ja wybieram filmy według tematów fali.
+- **Rekomendacja:** (a) — jedna playlista „cabinetry-wisdom”, do której dorzucasz filmy na bieżąco; ja co paczkę zabieram 3–5 nowych.
+- **Rodzaj:** `blokujace` (tylko KZ-001) · **Priorytet:** średni
+- **Zadano:** 2026-10-19 (paczka 4)
 - **Stan:** otwarte · **Odpowiedź:** —
 
 ## W przygotowaniu (zostaną zadane z notatką decyzyjną)

@@ -2,6 +2,11 @@
 
 Każda wersja to tag git. Zapisujemy, co zatwierdzono, wycofano i rozstrzygnięto.
 
+## v0.2.3 — kolejka źródeł (2026-10-19)
+
+- Nowy rejestr `rejestry/kolejka-zrodel.md`: KZ-001 filmy stolarzy na YouTube (praktyki), KZ-002 rozpis.pl — Pomoc, KZ-003 rozpis.pl — budowa każdego rodzaju szafki (z rysunkami). Rozpoznana struktura rozpis.pl (7 działów).
+- Paczka pytań 4: PYT-009 (ponowienie), PYT-010 (rysunki z rozpis.pl), PYT-011 (lista filmów). Paczka P3 ponowiona.
+
 ## v0.2.2 — paczka P3 do zatwierdzenia (2026-10-19)
 
 - Nowe źródło SRC-0109: katalog Blum 2024–2025 (pewność A); s. 83 potwierdza skróty F, TB, MD, FA, FD.

@@ -163,6 +163,7 @@ Pojęcia słownika mają uproszczony szablon: termin, definicja, **synonimy wars
 |---|---|---|
 | Źródła | `rejestry/zrodla.md` | `SRC-id`, typ (katalog, norma, film, rozmowa ze stolarzem, realizacja własna, sesja AI, plik legacy), autor, data, wersja/strona lub znacznik czasu, link lub ścieżka, ocena wiarygodności |
 | Konflikty | `rejestry/konflikty/KONF-NNN.md` | reguły w sporze, natura konfliktu, opcje, decyzja, uzasadnienie (format ADR) |
+| Kolejka źródeł | `rejestry/kolejka-zrodel.md` | źródła wskazane do przetworzenia (filmy YouTube, rozpis.pl…), zanim dostaną `SRC-` |
 | Pytania otwarte | `rejestry/pytania.md` | `PYT-id`, pytanie, kogo zapytać lub co sprawdzić, priorytet, powiązane reguły |
 | Decyzje pracowni | `rejestry/decyzje/DEC-NNN.md` | wybór spośród poprawnych opcji (np. „dno między bokami”, „plecy we wpust”) — źródło reguł typu `standard-pracowni` |
 | Dziennik zmian | `CHANGELOG.md` | co zatwierdzono, wycofano, rozstrzygnięto w każdej fali |

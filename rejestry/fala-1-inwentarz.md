@@ -13,6 +13,7 @@ Zestawienie pojęć ze słowników legacy, podzielone na paczki do zatwierdzenia
 | SRC-0003 | Słownik materiałów płytowych (sierpień), z przekrojami płyt i tabelą doboru | Materiały i obrzeża; zawiera też wartości liczbowe (grubości, gramatury) — to reguły/parametry, nie definicje (trafią do fali 2). |
 | SRC-0005 | Słownik `kuchnie4` część A | Kilka pojęć spoza SRC-0002: czoło, przedział, nadlewka, siatka, rząd, otwory, NL, głębokość wewnętrzna. Reszta to pojęcia programu (strefa, obsadzenie) — pomijamy. |
 | SRC-0007 | Słownik drzwi przesuwnych i szaf (Sevroll GEMINI 18 FRAME) | Pojęcia ogólne szaf (skrzydło, wypełnienie, tor, sekcja, pas niedostępny) + wiele nazw systemowych Sevroll → te drugie do `produkty/sevroll/` w fali 3. |
+| KZ-002 | Słownik rozpis.pl (<https://www.rozpis.pl/slownik.php>) — dopisany 2026-10-19 | Do przejrzenia przed paczką P4: porównanie nazw z naszym słownikiem; dostanie numer SRC przy pierwszym użyciu. |
 | SRC-0004 | Glosariusz programu `kuchnie` (bounded contexts) | Język oprogramowania, nie stolarski. **Pomijamy** w fali 1. |
 
 ## Wykryte rozbieżności (konflikty do otwarcia przy opracowaniu danej paczki)
