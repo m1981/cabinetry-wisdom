@@ -26,7 +26,9 @@ Ten kontrakt ustala, jak pracujemy nad bazą wiedzy. Obowiązuje każdego agenta
 | przypisanie obszaru, zakresu, pewności według reguł planu | decyzje pracowni (`DEC-`) i rozstrzygnięcia konfliktów typu `praktyka` |
 | otwarcie konfliktu, dopisanie źródła, nowy kandydat | wysłanie czegokolwiek poza komputer Michała (push, publikacja, wiadomość) |
 | lokalny commit zakończonej paczki pracy | usuwanie plików poza repo, zmiany w starych projektach |
-| push do `origin/main` tego repo po każdej zakończonej fali (stała zgoda, PYT-007) | push gdziekolwiek indziej, force-push, zmiana historii |
+| push do `origin/main` tego repo po każdej zakończonej fali (stała zgoda, PYT-007)¹ | push gdziekolwiek indziej, force-push, zmiana historii |
+
+¹ Komputer Michała nie ma w środowisku agenta danych logowania do GitHuba. Push idzie przez paczkę `git bundle` przeniesioną do środowiska w chmurze, które ma dostęp do tego repo. Tagów tą drogą wysłać się nie da — zostają lokalnie, a Michał wysyła je sam (`git push --tags`).
 
 **2.3 Najważniejsze na początku** (*BLUF — bottom line up front*). Każdy meldunek zaczyna się od wniosku lub decyzji, której potrzebuję. Szczegóły potem.
 

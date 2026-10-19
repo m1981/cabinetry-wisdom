@@ -7,7 +7,7 @@ Każda wersja to tag git. Zapisujemy, co zatwierdzono, wycofano i rozstrzygnięt
 - Zamknięte PYT-004…007: warsztat = zlecane CNC + montaż; domowe okucia = Blum, Sevroll, GTV AXIS PRO, Hettich; paczki do zatwierdzenia po 10; push po każdej fali.
 - Nowe PYT-008 (doprecyzowanie domyślnego systemu w kuchni) — do paczki 2.
 - KONTRAKT v1.1: stała zgoda na push do `origin/main`, paczki ≤ 10. PLAN rozdz. 14 uzupełniony o decyzje.
-- Pierwszy push na GitHub (v0.1, v0.1.1, v0.1.2).
+- Pierwszy push gałęzi `main` na GitHub. Tagi wersji zostają lokalnie — środowisko agenta nie może wysyłać tagów; Michał może je wysłać sam: `git push --tags`.
 
 ## v0.1.1 — kontrakt pracy (2026-10-19)
 
