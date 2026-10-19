@@ -184,7 +184,7 @@ Pojęcia słownika mają uproszczony szablon: termin, definicja, **synonimy wars
  3. Opracowanie    atomizacja, szablon EARS, obszar, zakres, pochodzenie, sposób sprawdzenia
  4. Łączenie       wyszukanie duplikatów i podobnych reguł → scalenie lub powiązanie
  5. Konflikty      wykrycie sprzeczności → KONF-, status „sporna”
- 6. Przegląd       paczka 10–20 reguł do przejrzenia przez Michała (tabela: zatwierdź / popraw / odrzuć / pytanie)
+ 6. Przegląd       paczka ≤ 10 wpisów do przejrzenia przez Michała (tabela: zatwierdź / popraw / odrzuć / pytanie)
  7. Zatwierdzenie  zmiana statusu wyłącznie decyzją Michała, wpis w historii i CHANGELOG
  8. Publikacja     tag wersji (np. v0.3) + regeneracja indeksu i widoków pochodnych
 ```
@@ -271,6 +271,9 @@ W `INDEKS.md` generowanym automatycznie:
 |---|---|---|---|
 | 1 | Widoczność repo | **Prywatne.** Wolno trzymać notatki ze źródeł i krótkie fragmenty katalogów; pełne transkrypcje i PDF-y nadal poza gitem (`inbox/_surowe/`). | Michał, 2026-10-19 |
 | 2 | Język identyfikatorów i folderów | **Polski.** | Michał, 2026-10-19 |
-| 3 | Granularność | Jedna reguła na plik — przyjęte domyślnie z rekomendacji, do zmiany po pierwszym przeglądzie. | domyślnie |
-| 4 | Pierwsza fala | Słownik — przyjęte domyślnie z rekomendacji. | domyślnie |
-| 5 | Wielkość paczki do przeglądu | 20 wpisów — przyjęte domyślnie, do korekty po pierwszym przeglądzie. | domyślnie |
+| 3 | Granularność | Jedna reguła na plik. | Michał, 2026-10-19 (PYT-006) |
+| 4 | Pierwsza fala | Słownik. | Michał, 2026-10-19 (PYT-006) |
+| 5 | Wielkość paczki do przeglądu | **10 wpisów.** | Michał, 2026-10-19 (PYT-006) |
+| 6 | Model warsztatu | Zlecane CNC (rozkrój, oklejanie PUR, nawierty) + montaż u siebie. | Michał, 2026-10-19 (PYT-004) |
+| 7 | Domowe systemy okuć | Blum (kuchnie), Sevroll (drzwi przesuwne), GTV AXIS PRO, Hettich. | Michał, 2026-10-19 (PYT-005) |
+| 8 | Kopia na GitHubie | Push po każdej fali. | Michał, 2026-10-19 (PYT-007) |

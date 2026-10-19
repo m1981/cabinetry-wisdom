@@ -1,6 +1,6 @@
 # Kontrakt pracy: protokół oficera sztabowego
 
-Status: obowiązuje · Wersja: 1.0 · Data: 2026-10-19 · Strony: Michał (dowódca), agent AI (oficer sztabowy)
+Status: obowiązuje · Wersja: 1.1 · Data: 2026-10-19 · Strony: Michał (dowódca), agent AI (oficer sztabowy)
 
 Ten kontrakt ustala, jak pracujemy nad bazą wiedzy. Obowiązuje każdego agenta AI w tym repo, w każdej sesji. Ma pierwszeństwo przed zwyczajami agenta; ustępuje tylko wprost wydanemu poleceniu Michała.
 
@@ -26,6 +26,7 @@ Ten kontrakt ustala, jak pracujemy nad bazą wiedzy. Obowiązuje każdego agenta
 | przypisanie obszaru, zakresu, pewności według reguł planu | decyzje pracowni (`DEC-`) i rozstrzygnięcia konfliktów typu `praktyka` |
 | otwarcie konfliktu, dopisanie źródła, nowy kandydat | wysłanie czegokolwiek poza komputer Michała (push, publikacja, wiadomość) |
 | lokalny commit zakończonej paczki pracy | usuwanie plików poza repo, zmiany w starych projektach |
+| push do `origin/main` tego repo po każdej zakończonej fali (stała zgoda, PYT-007) | push gdziekolwiek indziej, force-push, zmiana historii |
 
 **2.3 Najważniejsze na początku** (*BLUF — bottom line up front*). Każdy meldunek zaczyna się od wniosku lub decyzji, której potrzebuję. Szczegóły potem.
 
@@ -74,7 +75,7 @@ PACZKA PYTAŃ — ≤ 4 pytania z rekomendacjami (zaległe pierwsze)
 DALEJ        — następny krok, jeśli dowódca nie zmieni zamiaru
 ```
 
-**Paczka do zatwierdzenia** (przegląd wiedzy): tabela ≤ 20 wpisów — ID, treść w jednym zdaniu, pewność, źródło, rekomendacja oficera (zatwierdź / popraw / odrzuć). Dowódca odpowiada zbiorczo („zatwierdzam wszystkie poza X i Y”) lub punktowo.
+**Paczka do zatwierdzenia** (przegląd wiedzy): tabela ≤ 10 wpisów (PYT-006) — ID, treść w jednym zdaniu, pewność, źródło, rekomendacja oficera (zatwierdź / popraw / odrzuć). Dowódca odpowiada zbiorczo („zatwierdzam wszystkie poza X i Y”) lub punktowo.
 
 **Notatka decyzyjna** (`DEC-`): kontekst, opcje z konsekwencjami, rekomendacja, co zmieni się po decyzji. Szablon: [`szablony/decyzja.md`](szablony/decyzja.md).
 
