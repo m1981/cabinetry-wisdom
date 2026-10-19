@@ -48,6 +48,8 @@ Bez `uv`: `pip install pyyaml` i `python3 narzedzia/wiedza.py …`.
 ## Więcej
 
 - [PLAN.md](PLAN.md) — model wiedzy, proces zatwierdzania i fale pracy.
+- [KONTRAKT.md](KONTRAKT.md) — protokół oficera sztabowego: jak pracujemy, pytamy i meldujemy.
 - [AGENTS.md](AGENTS.md) — zasady dla agentów AI pracujących w repo.
+- [rejestry/pytania.md](rejestry/pytania.md) — pytania otwarte w paczkach, z historią ponowień.
 - [INDEKS.md](INDEKS.md) — spis wszystkich wpisów ze statusem i pewnością.
 - [CHANGELOG.md](CHANGELOG.md) — co zatwierdzono i zmieniono w kolejnych wersjach.

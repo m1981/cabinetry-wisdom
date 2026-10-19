@@ -2,6 +2,8 @@
 
 To repo jest bazą wiedzy, nie projektem programistycznym. Pełny model wiedzy i proces opisuje [PLAN.md](PLAN.md). Poniższe zasady są obowiązujące.
 
+**Najpierw przeczytaj [KONTRAKT.md](KONTRAKT.md)** — protokół oficera sztabowego: role, granice samodzielnych decyzji, pytania w paczkach z ponawianiem, formy meldunków. Pierwsza wiadomość każdej sesji to meldunek stanu z zaległymi pytaniami z [`rejestry/pytania.md`](rejestry/pytania.md).
+
 ## Czego nie wolno
 
 1. **Nie zmieniaj statusu na `zatwierdzona`.** Zatwierdza wyłącznie Michał, wprost, w rozmowie. Agent może przygotować paczkę do przeglądu i — po decyzji Michała — wpisać ją do pliku z adnotacją w `historia`.
